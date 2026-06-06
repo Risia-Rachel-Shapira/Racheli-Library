@@ -1,30 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\",
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\netCore\\Librery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\librery\\librery\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|c:\\users\\user1\\desktop\\netcore\\librery\\librery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|solutionrelative:librery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|c:\\users\\user1\\desktop\\netcore\\librery\\librery\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|solutionrelative:librery\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|c:\\users\\user1\\desktop\\netcore\\librery\\librery\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|solutionrelative:librery\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\librery\\librery\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|solutionrelative:librery\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\librery\\librery\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|c:\\users\\user1\\desktop\\netcore\\librery\\librery\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|solutionrelative:librery\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\librery\\librery\\controllers\\liberycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|solutionrelative:librery\\controllers\\liberycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\librery\\librery\\models\\libery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|solutionrelative:librery\\models\\libery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\librery\\librery\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|solutionrelative:librery\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|c:\\users\\user1\\desktop\\netcore\\librery\\librery\\interfaces\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9270D5-2B6C-4D1B-BB11-F9D21C25D545}|Librery\\Librery.csproj|solutionrelative:librery\\interfaces\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +30,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MemberController.cs",
-              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\Librery\\Controllers\\MemberController.cs",
-              "RelativeDocumentMoniker": "Librery\\Controllers\\MemberController.cs",
-              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\Librery\\Controllers\\MemberController.cs",
-              "RelativeToolTip": "Librery\\Controllers\\MemberController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAcAAAA",
+              "DocumentIndex": 1,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\netCore\\Librery\\Librery\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "Librery\\Services\\BookServices.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\netCore\\Librery\\Librery\\Services\\BookServices.cs",
+              "RelativeToolTip": "Librery\\Services\\BookServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:34:00.216Z",
+              "WhenOpened": "2026-06-06T19:47:59.736Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\netCore\\Librery\\Librery\\Program.cs",
+              "RelativeDocumentMoniker": "Librery\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\netCore\\Librery\\Librery\\Program.cs",
+              "RelativeToolTip": "Librery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T19:56:32.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LiberyController.cs",
-              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\Librery\\Controllers\\LiberyController.cs",
-              "RelativeDocumentMoniker": "Librery\\Controllers\\LiberyController.cs",
-              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\Librery\\Controllers\\LiberyController.cs",
-              "RelativeToolTip": "Librery\\Controllers\\LiberyController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:33:19.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "BookController.cs",
-              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\Librery\\Controllers\\BookController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\netCore\\Librery\\Librery\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Librery\\Controllers\\BookController.cs",
-              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\Librery\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\netCore\\Librery\\Librery\\Controllers\\BookController.cs",
               "RelativeToolTip": "Librery\\Controllers\\BookController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:32:51.177Z",
+              "WhenOpened": "2026-06-06T19:53:22.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Libery.cs",
-              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\Librery\\Models\\Libery.cs",
-              "RelativeDocumentMoniker": "Librery\\Models\\Libery.cs",
-              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\Librery\\Models\\Libery.cs",
-              "RelativeToolTip": "Librery\\Models\\Libery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\netCore\\Librery\\Librery\\Interfaces\\IBook.cs",
+              "RelativeDocumentMoniker": "Librery\\Interfaces\\IBook.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\netCore\\Librery\\Librery\\Interfaces\\IBook.cs",
+              "RelativeToolTip": "Librery\\Interfaces\\IBook.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:12:10.205Z",
+              "WhenOpened": "2026-06-06T19:39:00.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Member.cs",
-              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\Librery\\Models\\Member.cs",
-              "RelativeDocumentMoniker": "Librery\\Models\\Member.cs",
-              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\Librery\\Models\\Member.cs",
-              "RelativeToolTip": "Librery\\Models\\Member.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "DocumentIndex": 2,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\netCore\\Librery\\Librery\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Librery\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\netCore\\Librery\\Librery\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Librery\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:10:51.68Z",
+              "WhenOpened": "2026-06-06T19:39:25.301Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Book.cs",
-              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\Librery\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Librery\\Models\\Book.cs",
-              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D0 \u05EA\u05E9\u05E4\u05D5\\net core\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05E9\u05E4\u05D9\u05E8\u05D0\\Librery\\Librery\\Models\\Book.cs",
-              "RelativeToolTip": "Librery\\Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:09:41.426Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

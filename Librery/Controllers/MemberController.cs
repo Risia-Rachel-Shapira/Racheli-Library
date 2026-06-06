@@ -1,45 +1,55 @@
-﻿using Librery.Models;
+﻿using Librery.Interfaces;
+using Librery.Models;
+using Librery.Services;
 using Microsoft.AspNetCore.Mvc;
-
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+using Microsoft.AspNetCore.Mvc.Formatters;
 
 namespace Librery.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class MemberController : ControllerBase
-    {
-        private static List<Member> members = new List<Member>();
-        // GET: api/<MemberController>
+    public class MemberController : ControllerBase 
+    {      
+        private readonly IMember _memberServices;
+
+        public MemberController (IMember memberServices)
+        {
+            _memberServices = memberServices;
+        }
         [HttpGet]
-        public List<Member> Get()
+        public ActionResult<List<Member>>Get()
         {
-            return members;
+            return _memberServices.Get();
         }
 
-        // GET api/<MemberController>/5
         [HttpGet("{id}")]
-        public string Get(string idMember)
+        public ActionResult<Member> GetById(string idMember)
         {
-            return idMember;
+            return _memberServices.GetId(idMember);
         }
 
-        // POST api/<MemberController>
+        [HttpGet("{name}")]
+        public ActionResult<Member> GetByName(string nameMember)
+        {
+            return _memberServices.GetName(nameMember);
+        }
+
         [HttpPost]
-        public void Post([FromBody] string value)
+        public ActionResult Add(Member member) 
         {
+            if (member == null)
+                return NotFound();
+            _memberServices.Add(member);
+            return Created();
         }
 
-        // PUT api/<MemberController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpDelete]
+        public ActionResult Delete(Member member)
         {
-        }
-
-        // DELETE api/<MemberController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
+            if (member == null)
+                return NotFound();
+            _memberServices.Delete(member);
+            return Created();
         }
     }
 }

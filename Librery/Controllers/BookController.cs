@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Librery.Interfaces;
+using Librery.Models;
+using Librery.Services;
+using Microsoft.AspNetCore.Mvc;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Librery.Controllers
 {
@@ -8,36 +10,40 @@ namespace Librery.Controllers
     [ApiController]
     public class BookController : ControllerBase
     {
-        // GET: api/<BookController>
+        private readonly IBook _bookServices;
+        public BookController(IBook bookServices)
+        {
+            _bookServices = bookServices;
+        }
+
         [HttpGet]
-        public IEnumerable<string> Get()
+        public ActionResult<List<Book>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return _bookServices.Get();
         }
 
-        // GET api/<BookController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public ActionResult<Book> GetBookById(int id)
         {
-            return "value";
+            return _bookServices.GetBookById(id);
         }
 
-        // POST api/<BookController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public ActionResult Add(Book book)
         {
+            if (book == null)
+                return NotFound();
+            _bookServices.Add(book);
+            return Created();
         }
 
-        // PUT api/<BookController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpDelete]
+        public ActionResult Delete(Book book)
         {
-        }
-
-        // DELETE api/<BookController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
+            if (book == null)
+                return NotFound();
+            _bookServices.Delete(book);
+            return Created();
         }
     }
 }
